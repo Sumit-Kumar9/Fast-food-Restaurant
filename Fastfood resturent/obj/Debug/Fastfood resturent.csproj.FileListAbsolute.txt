@@ -1,0 +1,22 @@
+D:\C++ Program\Fastfood resturent\Fastfood resturent\bin\Debug\Fastfood resturent.exe.config
+D:\C++ Program\Fastfood resturent\Fastfood resturent\bin\Debug\Fastfood resturent.exe
+D:\C++ Program\Fastfood resturent\Fastfood resturent\bin\Debug\Fastfood resturent.pdb
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.AssemblyReference.cache
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.SuggestedBindingRedirects.cache
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood_resturent.Form1.resources
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood_resturent.Properties.Resources.resources
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.GenerateResource.cache
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.CoreCompileInputs.cache
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.exe
+D:\C++ Program\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.pdb
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\bin\Debug\Fastfood resturent.exe.config
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\bin\Debug\Fastfood resturent.exe
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\bin\Debug\Fastfood resturent.pdb
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.AssemblyReference.cache
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood_resturent.Form1.resources
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood_resturent.Properties.Resources.resources
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.GenerateResource.cache
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.csproj.CoreCompileInputs.cache
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.exe
+D:\C# Programming org\Fastfood resturent\Fastfood resturent\obj\Debug\Fastfood resturent.pdb
